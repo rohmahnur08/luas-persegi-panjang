@@ -1,0 +1,17 @@
+#include<iostream.h>
+
+void main()
+{
+
+int p,l,luas;
+
+cout<<"\t=Program Penghitung Luas Persegi Panjang=\n";
+cout<<"\t=========================================\n"<<endl;
+cout<<"Masukkan nilai panjang = \n";
+cin>>p;
+cout<<"Masukkan nilai lebar = \n";
+cin>>l;
+luas = p*l;
+cout<<"Maka luas persegi panjang adalah "<<luas<<endl<<endl;
+
+}
